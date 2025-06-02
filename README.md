@@ -2,7 +2,7 @@
 
 ### About me:
 I am a Computer Science student with an interest in development area.\
-Always looking for continuous learning and developing projects to prepare myself for opportunities.
+Always looking for continuous learning and development projects to improve my knowledge.
 
 ### Connect with me:
 <div>
