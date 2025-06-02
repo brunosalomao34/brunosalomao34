@@ -26,6 +26,6 @@ Always looking for continuous learning and developing projects to prepare myself
 ### GitHub Stats:
 <div>
 <a href="https://github.com/brunosalomao34">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
