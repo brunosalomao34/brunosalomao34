@@ -27,6 +27,6 @@ Always looking for continuous learning and development projects to improve my kn
 ### GitHub Stats:
 <div>
 <a href="https://github.com/brunosalomao34">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide_rank=true"/>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
