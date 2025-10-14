@@ -1,8 +1,7 @@
 # Hello, my name is Bruno Salomão!
 
 ### About me:
-I am a Computer Science student with an interest in development area.\
-Always looking for continuous learning and development projects to improve my knowledge.
+I am a Computer Science student always looking for continuous learning and development projects to improve my knowledge.
 
 ### Connect with me:
 <div>
@@ -14,7 +13,6 @@ Always looking for continuous learning and development projects to improve my kn
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
