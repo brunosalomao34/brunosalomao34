@@ -21,10 +21,3 @@ I am a Computer Science student always looking for continuous learning and devel
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/>
 </div>
-
-### GitHub Stats:
-<div>
-<a href="https://github.com/brunosalomao34">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide_rank=true"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosalomao34&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
-</div>
