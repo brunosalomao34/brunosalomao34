@@ -31,12 +31,6 @@ Atualmente estou focado em Desenvolvimento Web, estudando e desenvolvendo projet
 
 ---
 
-## 🚀 Projetos em Destaque
-
-> Em breve adicionarei aqui os principais projetos desenvolvidos durante meus estudos.
-
----
-
 ## 📬 Conecte-se Comigo
 
 <p align="left">
